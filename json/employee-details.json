@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "description": "Comfortable with modern JS stack, experience with React.",
+    "employment_type": "full_time"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "description": "Comfortable with nodejs",
+    "employment_type": "full_time"
+  },
+  {
+    "id": 3,
+    "title": "Web Designer",
+    "description": "Comfortable with AdobeXd",
+    "employment_type": "part_time"
+  },
+  {
+    "id": 4,
+    "title": "Big data",
+    "description": "Comfortable with Spark and Scala",
+    "employment_type": "full_time"
+  },
+  {
+    "id": 5,
+    "title": "Testing",
+    "description": "Automation and Manual testing",
+    "employment_type": "part_time"
+  }
+]
